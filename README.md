@@ -1,2 +1,1 @@
-# texttosqlchainlit
-texttosqlchainlit
+# TEXT to SQL
